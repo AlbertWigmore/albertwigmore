@@ -5,7 +5,6 @@ I am a system engineer with a passion for programming and space. Currently livin
 ### Tools 🔧
 <p align="center">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=fffefe&color=41b883">
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=fffefe&color=41b883">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=fffefe&color=41b883">
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu%20bash&logoColor=fffefe&color=41b883">
 <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual%20studio%20code&logoColor=fffefe&color=41b883">
