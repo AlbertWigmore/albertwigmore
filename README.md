@@ -12,6 +12,7 @@ I am a system engineer with a passion for programming and space. Currently livin
 <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat-square&logo=google%20cloud&logoColor=fffefe&color=41b883">
 <img src="https://img.shields.io/badge/Tools-QGIS-informational?style=flat-square&logo=Qgis&logoColor=fffefe&color=41b883">
 <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=fffefe&color=41b883">
+<img src="https://img.shields.io/badge/Tools-Wireshark-informational?style=flat-square&logo=wireshark&logoColor=fffefe&color=41b883">
 <p>
 
 ### Github Stats 📈
