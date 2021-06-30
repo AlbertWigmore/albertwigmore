@@ -1,6 +1,6 @@
 ### Hi, I'm Albert 👋
 
-I am a system engineer with a passion for programming and space. Currently living in the UK and working at Inmarsat.
+I am a system engineer with a passion for programming and space. Currently living in the UK and working at Open Cosmos.
 
 ### Tools 🔧
 <p align="center">
